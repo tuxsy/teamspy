@@ -1,0 +1,20 @@
+{
+  "name": "teamspy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readlog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuxsy/teamspy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuxsy/teamspy/issues"
+  },
+  "homepage": "https://github.com/tuxsy/teamspy#readme",
+  "dependencies": {}
+}
